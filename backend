@@ -1,0 +1,9 @@
+wb-miniapp/
+ └── backend/
+     ├── main.py
+     ├── config.py
+     ├── wb_client.py
+     ├── stock_service.py
+     ├── production_service.py
+     ├── requirements.txt
+     └── miniapp_static/
